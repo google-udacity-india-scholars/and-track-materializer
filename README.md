@@ -1,79 +1,47 @@
-# Google India Scholar Collaborative Project- <Your Track> Phase 2
+# Materializer 
+## Google India Scholar Collaborative Project- AND Phase 2
 
-Hi,You've got this template to edit as you start with the Collaborative Projects in Phase 2 and commit your changes. Please read this (https://docs.google.com/document/d/18UC6AAfdgcLLZzuGO_unUlZwc2kBYZqBRogmjDK3Ysc/edit?usp=sharing) document very carefully to understand all the details about the Collaborative Projects.
+In this Collaborative Project Phase 2 (Materializer), for a great application User Interface matters. 
+So in this Project we are going to implement and focus on the Materail Design. 
+Since our motto is to make the UI looks for this application (Materializer).
+Also we are looking for User Interface effectively.
 
 **Team**
-- (Add your or your teammates slack Handle here)
+- @Green_little_robot_.and
+- @Kavin Raju.and
+*Looking for team members.*
 
 ## Table of Contents
 
 - [Getting Started](#getting-started)
 - [Project URL](#project-url)
   - [Screenshots](#screenshots)
-- [Folder Structure](#folder-structure)
 - [Prerequisites](#prerequisites)
-- [How to launch the app locally](#how-to-launch-the-app-locally)
-  - [Installation](#installation)
-- [Style Guide](#style-guide)
-- [Resources](#resources)
-- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
-- Add any of the Getting Started that you want to mention here!
+- You must have finished Material Design concept in the Nanodegree Program, 
+ **[Material Design Nanodegree Syllabus](https://classroom.udacity.com/nanodegrees/nd801/parts/dc8a9fde-5a34-4241-bcbb-62e79ac84404)**
+- [How to Contribute at this project?](Contributing.md)
+- [List of Issues](https://github.com/google-udacity-india-scholars/and-track-AjaySharvesh3/issues)
 
 ## Project Title
-<Add your Project Title here.>
+Materializer - Material Design App
 
 ## Project Description
-<In brief please update your Project Description here! So that fellow mates in the community can understand what you project is about and contribute to the project>
+This application provide how actually the Material Design looks. And it has all the materail design concepts implemented in this app.
+Similar to the below linked application.
+<br>
+**For Example:  [MaterialX](https://play.google.com/store/apps/details?id=com.material.components)**
 
 ## Project URL
 [Visit the app](#)
 
-In case you have any!
-
 ### Screenshots
-![homepage](#)
-
-## Folder Structure
-In case there are any files please add them here as an Hierarchy for it to be better understandable.
-```bash
-├── README.md - This file.
-├── 
-└── 
-```
+Yet to be added
 
 ## Prerequisites
-* Which ever the project you choose it should be strictly following any of the rubri/instructions in the Nanodegree Program
-
-## How to launch the app locally?
-In case there is any of your Lauching styles to run your app please add it here!
-
-### Installation
-You can add your installation guide here!
+* This application strictly follow this [rubric](https://review.udacity.com/#!/rubrics/63/view)
 
 ## Project Rubric Level
-For example: FEND - Level 2 Project Rubic used.
+AND - Make Your App Material Project Rubric.
 
-## Acknowledgments
-Add an Achowledgement if you want to add any.
-
-## Project Moderators
-
-Please reach out to respective Mods for any quries about the Collaborative Projects!
-
-**AND** 
-- @Green_little_robot_.and
-- @TavishJain.and
-- @Shivam.and
-
-**ABND** 
-- @ak003.abnd
-
-**FEND** 
-- @GauravSingh.FEND
-
-**MWS** 
-- @Abhishekji.mws
-- @smriti.mws
-- @Siddiqi.mws
